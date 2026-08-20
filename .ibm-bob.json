@@ -1,0 +1,11 @@
+{
+  "agent_name": "cineflow_technical_producer",
+  "engine_version": "2.4.0",
+  "workflows": [
+    "script_breakdown_validation",
+    "budget_compliance_audit",
+    "event_stream_telemetry"
+  ],
+  "mcp_server": "https://mcp.ibm-bob.cloud/v1/cineflow",
+  "grounding_model": "ibm/granite-3-8b-instruct"
+}
